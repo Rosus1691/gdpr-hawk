@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="13" failures="0" errors="0" time="151.691">
+  <testsuite name="Enzyme basics" errors="0" failures="0" skipped="0" timestamp="2021-02-20T12:31:41" time="108.585" tests="13">
+    <testcase classname="Enzyme basics must have initial state" name="Enzyme basics must have initial state" time="0.856">
+    </testcase>
+    <testcase classname="Enzyme basics should root web part element exists" name="Enzyme basics should root web part element exists" time="0.306">
+    </testcase>
+    <testcase classname="Enzyme basics should call componentDidMount" name="Enzyme basics should call componentDidMount" time="0.36">
+    </testcase>
+    <testcase classname="Enzyme basics works with async/await and resolves" name="Enzyme basics works with async/await and resolves" time="0.146">
+    </testcase>
+    <testcase classname="Enzyme basics should call getNormalCasesForRetention" name="Enzyme basics should call getNormalCasesForRetention" time="0.178">
+    </testcase>
+    <testcase classname="Enzyme basics should root web part element exists" name="Enzyme basics should root web part element exists" time="0.242">
+    </testcase>
+    <testcase classname="Enzyme basics should searchbox element exists" name="Enzyme basics should searchbox element exists" time="0.266">
+    </testcase>
+    <testcase classname="Enzyme basics should pivot element exists" name="Enzyme basics should pivot element exists" time="0.261">
+    </testcase>
+    <testcase classname="Enzyme basics should normal case pivot item exists" name="Enzyme basics should normal case pivot item exists" time="0.243">
+    </testcase>
+    <testcase classname="Enzyme basics should migrated case pivot item exists" name="Enzyme basics should migrated case pivot item exists" time="0.257">
+    </testcase>
+    <testcase classname="Enzyme basics should retained case pivot item exists" name="Enzyme basics should retained case pivot item exists" time="0.231">
+    </testcase>
+    <testcase classname="Enzyme basics should deleted case pivot item exists" name="Enzyme basics should deleted case pivot item exists" time="0.253">
+    </testcase>
+    <testcase classname="Enzyme basics should call search" name="Enzyme basics should call search" time="0.285">
+    </testcase>
+  </testsuite>
+</testsuites>
