@@ -1,15 +1,15 @@
 import * as React from 'react';
-import { DetailsList, DetailsListLayoutMode, Selection, IColumn, CheckboxVisibility, IDetailsRowProps, DetailsHeader, IDetailsHeaderProps, IDetailsListStyles, IDetailsHeaderStyles, DetailsRow, IDetailsRowStyles } from 'office-ui-fabric-react/lib/DetailsList';
+import { DetailsList, DetailsListLayoutMode, IColumn, CheckboxVisibility, IDetailsRowProps, DetailsHeader, IDetailsHeaderProps, IDetailsHeaderStyles, DetailsRow, IDetailsRowStyles } from 'office-ui-fabric-react/lib/DetailsList';
 
 import { Fabric } from 'office-ui-fabric-react/lib/Fabric';
 
-import { Checkbox, ChoiceGroup, IChoiceGroupOption, mergeStyles, PrimaryButton } from 'office-ui-fabric-react';
+import { Checkbox, IChoiceGroupOption, mergeStyles, PrimaryButton } from 'office-ui-fabric-react';
 import Pagination from 'office-ui-fabric-react-pagination';
 
 
 import { DialogOnClose } from './DialogOnClose';
-import { sp, IItemUpdateResult } from '@pnp/sp/presets/all';
-import { ItemUpdateResult } from 'sp-pnp-js';
+
+
 
 
 
