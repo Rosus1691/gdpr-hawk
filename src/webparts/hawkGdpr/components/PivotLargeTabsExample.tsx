@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { IPivotStyles, Pivot, PivotItem, PivotLinkFormat, PivotLinkSize } from 'office-ui-fabric-react/lib/Pivot';
-import { Label } from 'office-ui-fabric-react/lib/Label';
+
 import { DetailsListExample } from './ListComponents/DetailsListExample';
 import { IColumn } from 'office-ui-fabric-react/lib/DetailsList';
 
@@ -9,12 +9,12 @@ import { mergeStyles, mergeStyleSets } from 'office-ui-fabric-react/lib/Styling'
 //import { sp } from '@pnp/sp';
 //import pnp from 'sp-pnp-js';
 import { DatePicker, DayOfWeek, PrimaryButton } from 'office-ui-fabric-react';
-import { WebPartContext } from "@microsoft/sp-webpart-base";
+
 //import { ICamlQuery, sp } from '@pnp/sp/presets/all';
 import { IList, sp, SPRest } from "@pnp/sp-commonjs";
 import { DayPickerStrings } from "./ListComponents/DialogOnClose";
-import {CSVLink} from 'react-csv';
-import { CommandBarButton } from 'office-ui-fabric-react';
+//import {CSVLink} from 'react-csv';
+
 
 //sample
 
