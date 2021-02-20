@@ -13,7 +13,7 @@ import { WebPartContext } from "@microsoft/sp-webpart-base";
 //import { ICamlQuery, sp } from '@pnp/sp/presets/all';
 import { IList, sp, SPRest } from "@pnp/sp-commonjs";
 import { DayPickerStrings } from "./ListComponents/DialogOnClose";
-import {CSVLink} from 'react-csv';
+//import {CSVLink} from 'react-csv';
 import { CommandBarButton } from 'office-ui-fabric-react';
 
 //sample
